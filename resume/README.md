@@ -2,7 +2,7 @@
 **TR:** Bu repo Git ve GitHub Eğitimi kapsamında  oluşturulan bir repodur. İçerisinde barındırılanlar;<br>
 **EN:** This repo is a repo created as part of Git and GitHub Tutorial. Included are;
 
-![](https://raw.githubusercontent.com/OzanYAYLALI/Resume/main/assets/img/resume_files_img.png)
+![](https://raw.githubusercontent.com/OzanYAYLALI/OzanYAYLALI.github.io/main/resume/assets/img/resume_files_img.png)
 
 ## Aim and Scope
 [Start Bootstrap - Resume](https://github.com/startbootstrap/startbootstrap-resume) kullanılarak hazırlanmıştır.
